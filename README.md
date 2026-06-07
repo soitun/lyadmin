@@ -6,6 +6,10 @@ lyadmin是一套轻量级通用后台，采用ThinkPHP+Bootstrap3制作，内置
 
 lysite是lyadmin开源通用后台的一个版本分支，本质上是lyadmin的一个模块，旨在探索用户对更深层次的系统需求以及反应。lysite是一套基于开源通用后台衍生开发的通用建站系统，主要目标致力于打造一套建设企业官网和小型博客等站点的专用建站系统。系统采用模块化开发，不对lyadmin核心做任何特殊修改。支持模板功能，模板的开发规范见下文。
 
+## 中转站推荐
+
+https://vsllm.com
+
 ## 官网：
 
 https://www.lingyun.net/lyadmin.html
